@@ -1,2 +1,1 @@
-# Component-Tasks
-Components to create and edit 
+# ng-noob
